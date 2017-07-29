@@ -1,2 +1,2 @@
-# Hello_World
+# HelloC++
 练手工程
